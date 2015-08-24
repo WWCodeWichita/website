@@ -18,4 +18,5 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
 	<li><a href="http://www.jquery.com">jQuery</a></li>
 	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://www.adafruit.com">Wearables</a></li>
 </ul>
