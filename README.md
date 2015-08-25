@@ -10,6 +10,13 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 	<li>Navigation links (Memebers, Contact, Jobs, Events, Blog??)</li>
 </ul>
 
+<h4>Ideas for content</h4>
+<ul>
+	<li>How to articles</li>
+	<li>Wichita photos</li>
+	<li>What else?</li>
+</ul>
+
 <h4>Technologies</h4>
 <ul>
 	<li><a href="http://www.w3schools.com/html">HTML</a></li>
