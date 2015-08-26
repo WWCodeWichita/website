@@ -17,4 +17,5 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
 	<li><a href="http://www.jquery.com">jQuery</a></li>
 	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://www.getbootstrap.com">Bootstrap is important so i added 2x</a></li>
 </ul>
