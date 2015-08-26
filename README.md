@@ -1,4 +1,3 @@
-<h1>crista's test... hopefully works</h1>
 <h1>WWCodeWichita - Website</h1>
 
 <h4>Description</h4>
@@ -18,4 +17,5 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
 	<li><a href="http://www.jquery.com">jQuery</a></li>
 	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://rubyinstaller.org/about">Ruby</a></li>
 </ul>
