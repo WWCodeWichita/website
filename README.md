@@ -22,8 +22,8 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 </ul>
 
 <h3>Britten's was here!!!</h3>
-	<ul>
-		<li>Lynn is super awesome for running GIT pt 1 and 2</li>
-		<li>Everyone who come back for git pt 2 is awesome for sticking with it!</li>
-		<li>Let's get tacos next time!</li>
-	</ul>
+<ul>
+	<li>Lynn is super awesome for running GIT pt 1 and 2</li>
+	<li>Everyone who come back for git pt 2 is awesome for sticking with it!</li>
+	<li>Let's get tacos next time!</li>
+</ul>
