@@ -24,4 +24,7 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
 	<li><a href="http://www.jquery.com">jQuery</a></li>
 	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://rubyinstaller.org/about">Ruby</a></li>
 </ol>
+
+>>>>>>> a9fe61e346506cfccdacc69cbf029b090d0cb87b
