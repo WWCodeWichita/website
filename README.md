@@ -15,6 +15,7 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 	<li>How to articles</li>
 	<li>Wichita photos</li>
 	<li>What else?</li>
+	<li>Mess around with people's heads</li>
 </ul>
 
 <h4>Technologies</h4>
@@ -24,4 +25,12 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
 	<li><a href="http://www.jquery.com">jQuery</a></li>
 	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://www.adafruit.com">Wearables</a></li>
 </ol>
+
+<h3>Britten was here!!!</h3>
+<ul>
+	<li>Lynn is super awesome for running GIT pt 1 and 2</li>
+	<li>Everyone who come back for git pt 2 is awesome for sticking with it!</li>
+	<li>Let's get tacos next time!</li>
+</ul>
