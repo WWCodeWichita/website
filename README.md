@@ -7,7 +7,6 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 <ol>
 	<li>Create wireframe and mock up site</li>
 	<li>Content for website</li>
-	<li>Navigation links (Memebers, Contact, Jobs, Events, Blog??)</li>
 </ol>
 
 <h4>Ideas for content</h4>
@@ -15,6 +14,8 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 	<li>How to articles</li>
 	<li>Wichita photos</li>
 	<li>What else?</li>
+	<li>Make the website AWESOME with CSS!</li>
+	<li>Navigation links (Members, Contact, Jobs, Events, Blog??)</li>
 </ul>
 
 <h4>Technologies</h4>
