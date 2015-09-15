@@ -36,4 +36,3 @@ Creating local branch of Women Who Code in Wichita, Kansas. This project will se
 	<li>Everyone who come back for git pt 2 is awesome for sticking with it!</li>
 	<li>Let's get tacos next time!</li>
 </ul>
->>>>>>> upstream/master
