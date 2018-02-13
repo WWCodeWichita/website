@@ -1,40 +1,35 @@
-<h1>WWCodeWichita - Website</h1>
+# WWCodeWichita
 
-<h4>Description</h4>
-Creating local branch of Women Who Code in Wichita, Kansas. This project will serve as a marketing tool for the branch as well as a learning project for the group. 
+## Description
+Creating local branch of Women Who Code in Wichita, Kansas.
+<br>
+This project will serve as a marketing tool for the branch as well as a learning project for the group. 
 
-<h4>Things to do</h4>
-<ol>
-	<li>Create wireframe and mock up site</li>
-	<li>Content for website</li>
-</ol>
+## Things to do
+1. Create wireframe and mock up site
+2. Content for website
 
-<h4>Ideas for content</h4>
-<ul>
-	<li>How to articles</li>
-	<li>Wichita photos</li>
-	<li>What else?</li>
-	<li>Make the website AWESOME with CSS!</li>
-	<li>Navigation links (Members, Contact, Jobs, Events, Blog??)</li>
-	<li>Mess around with people's heads</li>
-</ul>
-
-<h4>Technologies</h4>
-<ol>
-	<li><a href="http://www.w3schools.com/html">HTML</a></li>
-	<li><a href="http://www.w3schools.com/css">CSS</a></li>
-	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
-	<li><a href="http://www.jquery.com">jQuery</a></li>
-	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
-	<li><a href="http://www.getbootstrap.com">Bootstrap is important so i added 2x</a></li>
-	<li><a href="http://rubyinstaller.org/about">Ruby</a></li>
-	<li><a href="http://www.adafruit.com">Wearables</a></li>
-</ol>
+## Ideas for content
+1. How to articles
+2. Wichita photos
+3. What else?
+4. Make the website AWESOME with CSS!
+5. Navigation links (Members, Contact, Jobs, Events, Blog??)
+6. Mess around with people's heads
 
 
-<h3>Britten was here!!!</h3>
-<ul>
-	<li>Lynn is super awesome for running GIT pt 1 and 2</li>
-	<li>Everyone who come back for git pt 2 is awesome for sticking with it!</li>
-	<li>Let's get tacos next time!</li>
-</ul>
+## Technologies
+1. [HTML](http://www.w3schools.com/html)
+2. [CSS](http://www.w3schools.com/css)
+3. [Javascript](http://www.w3schools.com/js)
+4. [jQuery](http://www.jquery.com)
+5. [Bootstrap](http://www.getbootstrap.com)
+6. [Bootstrap is important so I added it 2x](http://www.getbootstrap.com)
+7. [Ruby](http://rubyinstaller.org/about)
+8. [Wearables](http://www.adafruit.com)
+
+
+## Britten was here!!!
+1. Lynn is super awesome for running GIT pt 1 and 2
+2. Everyone who come back for git pt 2 is awesome for sticking with it!
+3. Let's get tacos next time!
